@@ -5,7 +5,7 @@ Privacy-policy
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Privacy Policy - Watch Face</title>
+    Privacy Policy - Watch Face
 </head>
 <body>
     <h1>Privacy Policy for This Watch Face</h1>
