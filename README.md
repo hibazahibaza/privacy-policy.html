@@ -10,7 +10,7 @@ Privacy-policy
 <body>
     <h1>Privacy Policy for This Watch Face</h1>
     <p><strong>Effective Date:</strong> 26, Nov. 2024</p>
-    <p>Thank you for using <em>Watch Face</em>, a watch face app developed by [Hiba Alzahabi] for wear OS. This privacy policy explains how we collect, use, and protect your personal information when you use our app. We are committed to respecting and protecting your privacy.</p>
+    <p>Thank you for using <em>Watch Face</em>, a watch face developed by [Hiba Alzahabi] for wear OS. This privacy policy explains how we collect, use, and protect your personal information when you use our app. We are committed to respecting and protecting your privacy.</p>
    
 
    
